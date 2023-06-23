@@ -1,0 +1,204 @@
+.footer-inner,
+.strands-offer-child {
+  position: absolute;
+  left: calc(50% - 720px);
+  width: 1440px;
+}
+.strands-offer-child {
+  top: calc(50% - 512px);
+  height: 1024px;
+  object-fit: cover;
+}
+.footer-inner {
+  bottom: 0;
+  background-color: var(--color-black);
+  height: 161px;
+}
+.mnmnhs-all-rights2 {
+  position: absolute;
+  bottom: 70px;
+  left: calc(50% - 340px);
+  font-weight: 300;
+}
+.footer2 {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 161px;
+  font-family: var(--font-inter);
+}
+.logo-1-icon2 {
+  position: absolute;
+  top: calc(50% - 196px);
+  left: calc(50% - 200px);
+  width: 400px;
+  height: 392.82px;
+  object-fit: cover;
+}
+.mnmn-high-school {
+  margin: 0;
+}
+.mnmn-high-school-container {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  width: 240px;
+  flex-shrink: 0;
+}
+.mnmn-high-school-is-now-offeri-wrapper,
+.mnmn-high-school-is-proud-to-i-wrapper {
+  position: absolute;
+  top: calc(50% - 144.5px);
+  left: calc(50% - 579px);
+  background-color: var(--color-gray-100);
+  height: 290px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.mnmn-high-school-is-proud-to-i-wrapper {
+  left: calc(50% - 287px);
+}
+.mnmn-high-school2 {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  width: 240px;
+  height: 210px;
+  flex-shrink: 0;
+}
+.joining-the-tvl-technical-voc-wrapper,
+.mnmn-high-school-students-can-wrapper {
+  position: absolute;
+  background-color: var(--color-gray-100);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.mnmn-high-school-students-can-wrapper {
+  top: calc(50% - 144.5px);
+  left: calc(50% + 16px);
+  width: 260px;
+  height: 290px;
+  box-sizing: border-box;
+}
+.joining-the-tvl-technical-voc-wrapper {
+  top: calc(50% - 146.5px);
+  left: calc(50% + 319px);
+}
+.txt-content {
+  position: absolute;
+  top: calc(50% + 46px);
+  left: calc(50% - 574px);
+  width: 1158px;
+  height: 293px;
+  font-size: var(--font-size-base);
+}
+.img-child {
+  position: absolute;
+  left: calc(50% - 584px);
+  height: 285.06px;
+}
+.img-child,
+.img-inner,
+.img-item {
+  top: calc(50% - 142.53px);
+  width: 270px;
+  object-fit: cover;
+}
+.img-item {
+  position: absolute;
+  left: calc(50% - 292px);
+  height: 285.06px;
+}
+.img-inner {
+  left: calc(50% + 11px);
+}
+.img,
+.img-inner,
+.rectangle-icon {
+  position: absolute;
+  height: 285.06px;
+}
+.rectangle-icon {
+  top: calc(50% - 142.53px);
+  left: calc(50% + 314px);
+  width: 270px;
+  object-fit: cover;
+}
+.img {
+  top: calc(50% - 251px);
+  left: calc(50% - 579px);
+  width: 1168px;
+}
+.smaw {
+  position: relative;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.humms-wrapper,
+.smaw-wrapper,
+.stem-wrapper,
+.tvl-wrapper {
+  position: absolute;
+  top: calc(50% - 42px);
+  left: calc(50% - 516px);
+  border-radius: var(--br-xl);
+  background-color: var(--yellow);
+  border: 1px solid var(--color-black);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  align-items: center;
+  justify-content: center;
+}
+.humms-wrapper,
+.stem-wrapper,
+.tvl-wrapper {
+  left: calc(50% - 213px);
+}
+.humms-wrapper,
+.tvl-wrapper {
+  left: calc(50% + 76px);
+}
+.tvl-wrapper {
+  left: calc(50% + 407px);
+}
+.strands-offers,
+.title {
+  position: absolute;
+  text-align: justify;
+}
+.title {
+  top: calc(50% - 350px);
+  left: calc(50% - 523px);
+  width: 1030px;
+  height: 82px;
+  font-size: var(--font-size-29xl);
+  color: var(--blue);
+}
+.strands-offers {
+  top: calc(50% - 444px);
+  left: calc(50% - 590px);
+  font-size: var(--font-size-45xl);
+  font-weight: 500;
+  color: var(--yellow);
+  -webkit-text-stroke: 2px #012ece;
+}
+.strands-offer {
+  position: relative;
+  background-color: var(--blue);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-ibm-plex-mono);
+}

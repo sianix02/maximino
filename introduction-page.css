@@ -1,0 +1,95 @@
+.footer-item,
+.introduction-page-child {
+  position: absolute;
+  left: calc(50% - 720px);
+  width: 1440px;
+}
+.introduction-page-child {
+  top: calc(50% - 512px);
+  height: 1024px;
+  object-fit: cover;
+}
+.footer-item {
+  bottom: 0;
+  background-color: var(--color-black);
+  height: 161px;
+}
+.mnmnhs-all-rights1 {
+  position: absolute;
+  bottom: 70px;
+  left: calc(50% - 340px);
+  font-weight: 300;
+}
+.footer1 {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 161px;
+}
+.logo-1-icon1 {
+  position: absolute;
+  top: calc(50% - 196px);
+  left: calc(50% - 200px);
+  width: 400px;
+  height: 392.82px;
+  object-fit: cover;
+}
+.introduction {
+  position: relative;
+  font-weight: 500;
+  -webkit-text-stroke: 2px #012ece;
+}
+.maximino-noel-memorial {
+  margin: 0;
+}
+.maximino-noel-memorial-container {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  width: 1117px;
+  flex-shrink: 0;
+}
+.txt {
+  background-color: rgba(0, 0, 0, 0.35);
+  width: 1180px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.image-1-icon {
+  position: relative;
+  width: 1180px;
+  height: 435px;
+  object-fit: cover;
+}
+.introduction-parent {
+  position: absolute;
+  top: calc(50% - 444px);
+  left: calc(50% - 590px);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 23px;
+  text-align: justify;
+  font-size: var(--font-size-45xl);
+  color: var(--yellow);
+  font-family: var(--font-ibm-plex-mono);
+}
+.introduction-page {
+  position: relative;
+  background-color: var(--blue);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

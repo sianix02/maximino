@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-ibm-plex-mono: "IBM Plex Mono";
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-45xl: 64px;
+  --font-size-29xl: 48px;
+  --font-size-lg: 18px;
+  --font-size-base: 16px;
+
+  /* Colors */
+  --blue: #012ece;
+  --yellow: #ffff00;
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gray-100: rgba(0, 0, 0, 0.63);
+
+  /* Paddings */
+  --padding-3xs: 10px;
+
+  /* border radiuses */
+  --br-4xl: 23px;
+  --br-xl: 20px;
+}
